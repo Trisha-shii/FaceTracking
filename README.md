@@ -85,6 +85,7 @@ anchor.group.add(glasses.scene);
 ```
 ## OUTPUT:
 <img width="1919" height="1199" alt="Screenshot 2025-09-29 090344" src="https://github.com/user-attachments/assets/9983a8f8-9add-4421-ba20-cf8b290b7798" />
+<img width="1919" height="1199" alt="Screenshot 2025-09-29 093753" src="https://github.com/user-attachments/assets/d43ad962-96ee-4d9e-a3d3-9d3ae227c882" />
 
 
 
